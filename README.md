@@ -1,4 +1,5 @@
-# Multilevel Modelling with MultEcore: A contribution to theMULTI Process challenge
+# Multilevel Modelling with MultEcore: A contribution to the Multi-Level Process Challenge
+
 ## Submitted to the EMISAJ Special Issue: "Multi-Level Process Challenge"
 In this repository one can find all the necessary files to inspect the multilevel hierarchy presented in the article, as well as reproduce the executions shown.
 Before actually showing how to do this, **for the moment the MultEcore-Maude implementation only works on Windows**. There are also some installation required:
